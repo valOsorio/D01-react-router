@@ -1,0 +1,45 @@
+body {
+  overflow: hidden;
+}
+.nav-icon {
+  font-size: 1.7rem;
+  color: white;
+  margin-right: 0.5rem;
+}
+.titleNotFound {
+  margin-top: 10rem;
+  color: #465567;
+}
+.textNotFound {
+  font-family: "Lobster", sans-serif;
+  font-size: 10rem;
+  color: #465567;
+  margin-top: 3rem;
+}
+.hero {
+  background-image: url(../src/assets/hero2.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+.title-home1 {
+  padding-top: 28rem;
+  font-size: 4rem;
+  font-family: "Lobster", sans-serif;
+  color: #fefaef;
+}
+.title-home2 {
+  font-family: "Lobster", sans-serif;
+  color: #fefaef;
+}
+.font-f{
+  font-family: "Lobster", sans-serif;
+  color: #465567;
+}
+.color-bg {
+  background-color: #fefaef;
+  height: 100vh;
+  width: 100%;
+}
